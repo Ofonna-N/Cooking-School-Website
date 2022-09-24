@@ -37,7 +37,8 @@ header
     background-image: url("../imgs/dis-hero\ 2.jpg");
     background-size:cover;
     background-attachment: fixed;
-    background-position: 0em -20em;
+    background-repeat:no-repeat;
+    background-position: 0em -7em;
     padding-bottom: 10em;
 }
 
@@ -61,7 +62,7 @@ header
 .header-container > .call-to-action-container > h2
 {
     font-style: italic;
-    margin-bottom: 8em;
+    margin-bottom: 5em;
 }
 
 /* .cta-btn
@@ -246,7 +247,7 @@ nav
     justify-content: space-between;
     align-items: center;
     height: 10em;
-    margin-bottom: 10em;
+    margin-bottom: 5em;
     /* background-color: aqua; */
 }
 
